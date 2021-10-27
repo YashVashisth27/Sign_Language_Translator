@@ -1,0 +1,8 @@
+Pyhon libraries 
+	- OpenCV
+	- Numpy
+	- keras
+	- pandas
+	- sklearn
+	- matplotlib
+	- glob
